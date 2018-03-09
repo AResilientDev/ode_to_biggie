@@ -1,0 +1,34 @@
+body{;
+  text-align: center;
+  color: blue;
+  b
+
+}
+h3{
+  margin-top: 40px;
+}
+
+html{
+  background-image: url('biggie.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background: (255,255,255,0.6);
+}
+
+.messages{
+  list-style-type: none;
+}
+
+button, input{
+  background-color: black;
+  color: blue;
+  border-color: black;
+}
+
+input{
+  border-color: white;
+}
+
+input::-webkit-input-placeholder, input::-ms-input-placeholder{
+  font-style: italic;
+}
